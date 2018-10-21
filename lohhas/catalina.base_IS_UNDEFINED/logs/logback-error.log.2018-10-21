@@ -1,0 +1,5 @@
+2018-10-21 00:38:15.865 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-21 14:32:28.350 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-21 14:33:13.305 [http-nio-8080-exec-1] ERROR com.lohhas.web.lohhas.controller.OrderController:  null
+2018-10-21 14:34:59.814 [http-nio-8080-exec-2] ERROR com.lohhas.web.lohhas.controller.OrderController:  null
+2018-10-21 14:38:31.462 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000

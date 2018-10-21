@@ -1,0 +1,8 @@
+2018-10-17 20:09:49.573 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:15:28.502 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:22:37.354 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:25:21.921 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:28:53.949 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:30:03.715 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 20:48:30.561 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
+2018-10-17 23:45:11.076 [main] ERROR com.alibaba.druid.pool.DruidAbstractDataSource:  minEvictableIdleTimeMillis should be greater than 30000
